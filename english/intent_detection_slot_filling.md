@@ -42,6 +42,8 @@ SNIPS is a dataset by Snips.ai for Intent Detection and Slot Filling benchmarkin
 
 | Model | Slot F1 Score | Intent Accuracy | Paper / Source | Code |
 | ------ | ------ | ------ | ------ | ------ |
+| LR-Transformer + BERT | 97.10 | 99.10  | [An Effective Non-Autoregressive Model for Spoken Language Understanding](https://dl.acm.org/doi/pdf/10.1145/3459637.3482229) |
+| LR-Transformer | 94.80 | 98.40  | [An Effective Non-Autoregressive Model for Spoken Language Understanding](https://dl.acm.org/doi/pdf/10.1145/3459637.3482229) |
 | SlotRefine + BERT | 97.05 | 99.04  | [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling](https://aclanthology.org/2020.emnlp-main.152.pdf) | [Official](https://github.com/moore3930/SlotRefine)|
 | SlotRefine | 93.72 | 97.44  | [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling](https://aclanthology.org/2020.emnlp-main.152.pdf) | [Official](https://github.com/moore3930/SlotRefine)|
 | Stack-Propagation + BERT | 97.00 | 99.00 | [A Stack-Propagation Framework with Token-level Intent Detection for Spoken Language Understanding](https://arxiv.org/abs/1909.02188)|[Official](https://github.com/LeePleased/StackPropagation-SLU)|
